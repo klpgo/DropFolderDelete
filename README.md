@@ -1,8 +1,6 @@
 # dropfolderdelete
 
-SeedDMS-Extension: zeigt die Dateien im eigenen Ablageordner
-(Drop Folder) an und löscht sie einzeln – mit Rückfrage, ohne
-Shell-Zugriff auf den Server.
+Ist eine SeedDMS Extension, die Dateien im DropFolder löschbar macht.
 
 ## Installation
 
